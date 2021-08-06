@@ -1,5 +1,5 @@
 # hello-world
 
-Hello Wprld!
+Hello World!
 
 My first GitHub Repository!
